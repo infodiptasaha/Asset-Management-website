@@ -1,0 +1,7 @@
+{
+  "name": "MobiFix ERP",
+  "description": "Enterprise-grade mobile device maintenance and inventory system. Laravel-inspired UI with AI diagnostics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
